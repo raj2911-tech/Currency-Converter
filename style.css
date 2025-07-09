@@ -45,10 +45,11 @@ body {
 /* Dark mode/light mode toggle icon */
 .toggle-icon {
     top: 15px;
-    right: 15px;
+    left: 15px;
     cursor: pointer;
     font-size: 18px;
-    color: #333;                         
+    color: #333;  
+    position: absolute;                       
 }
 
 /* Icon color in dark mode */
